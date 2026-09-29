@@ -8,7 +8,6 @@
 - **Cloud Infrastructure:** Configured build scripts and production start commands on Render (`uvicorn app:app --host 0.0.0.0 --port $PORT`).
 
 
-# Phase 1: Brainstorming & Ideation
 
 - *Date:* 29 September 2026
 - *Team ID:* 05
