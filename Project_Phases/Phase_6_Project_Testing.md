@@ -7,7 +7,6 @@
 - **Cross-Platform Accessibility:** Tested the live web endpoint across desktop browsers and mobile screen viewports. Result: Passed.
 
 
-# Phase 1: Brainstorming & Ideation
 
 - *Date:* 29 September 2026
 - *Team ID:* 05
