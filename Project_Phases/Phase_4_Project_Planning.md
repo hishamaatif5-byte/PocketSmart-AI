@@ -14,8 +14,6 @@
 - 
 
 
-# Phase 1: Brainstorming & Ideation
-
 - *Date:* 29 September 2026
 - *Team ID:* 05
 - *Project Name:* PocketSmart AI
